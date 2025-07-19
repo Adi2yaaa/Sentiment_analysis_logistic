@@ -1,9 +1,9 @@
-Company : CODTECH IT solutions PVT LTD
-Name : Aditya bisen 
-Intern id : CT06DF1711 
-Domain : Machine learning 
-Duration : 6 weeks 
-Mentor : Neela Santhosh Kumar
+# Company : CODTECH IT solutions PVT LTD
+# Name : Aditya bisen 
+# Intern id : CT06DF1711 
+# Domain : Machine learning 
+# Duration : 6 weeks 
+# Mentor : Neela Santhosh Kumar
 
 # Sentiment_analysis_logistic
 This project focuses on performing Sentiment Analysis using machine learning techniques to classify customer reviews as either positive or negative. Sentiment analysis, a key application of Natural Language Processing (NLP), helps in understanding public opinion, customer satisfaction, and brand perception by analyzing textual feedback.
