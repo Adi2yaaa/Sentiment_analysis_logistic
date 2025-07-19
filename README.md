@@ -94,5 +94,7 @@ Clean code with comments for easy understanding
 
 output
 
+<img width="805" height="787" alt="Image" src="https://github.com/user-attachments/assets/db1c6c95-33ee-412c-813d-6882d1814bc5" />
+
 
 
